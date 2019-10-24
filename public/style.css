@@ -1,0 +1,72 @@
+body {
+   background-color: #444;
+  }
+
+
+  .container {
+
+
+   max-width: 700px;
+   background-color: #b0e0dd;
+   text-align: center;
+  }
+
+
+  .header {
+   background-color: hsl(145, 95%, 37%);
+   text-align: center;
+   margin-bottom: 2rem;
+   padding: 1.7rem;
+   border-radius: 0 0 19px 19px;
+   color: white;
+
+
+  }
+
+
+  .header h3 {
+   font-size: 1.2rem;
+   color: #efefef;
+  }
+
+
+
+
+  .form {
+   text-align: left;
+  }
+
+
+  .input {
+   border-radius: 7px;
+   margin-bottom: 10px;
+  }
+
+
+  .label {
+   margin-bottom: 10px;
+   padding: 0.7rem;
+   font-size: 1.1rem;
+   font-weight: 600;
+  }
+
+
+  .btn {
+   background-color: hsl(145, 91%, 38%);
+   width: 7rem;
+   height: 2.5rem;
+   color: white;
+   margin: 2rem;
+   border-block-color: hsl(145, 91%, 38%);
+  }
+
+
+  .upload {
+   display: inline-block;
+  }
+
+
+  .form {
+   display: grid;
+   grid-template-columns: 1fr 1fr;
+  }
