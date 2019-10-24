@@ -1,8 +1,8 @@
 var cloudab = require('../cloudinaryVar.js')
 
 
-//const CLOUDINARY_URL = 'https://api.cloudinary.com/v1_1/shayan-dev/image/upload';
-//const CLOUDINARY_UPLOAD_PRESET = 'fojw1igo';
+//const CLOUDINARY_URL = 'https://api.cloudinary.com/v1_1/*****/image/upload';
+//const CLOUDINARY_UPLOAD_PRESET = '*****';
 
 
 //console.log(process.env.CLOUDINARY_UPLOAD_PRESET);
